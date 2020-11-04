@@ -1,7 +1,7 @@
 
-L
-java:S11178"6Rename "ps" which hides the field declared at line 11.(¿÷–Ω
 e
 java:S20958"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¿÷–Ω
+L
+java:S11178"6Rename "ps" which hides the field declared at line 11.(¿÷–Ω
 Q
 java:S1117<"6Rename "rs" which hides the field declared at line 13.(ßˇö´˚ˇˇˇˇ

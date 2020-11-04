@@ -1,10 +1,10 @@
 
-N	java:S106'"9Replace this use of System.out or System.err by a logger.(Ö¬êÑ
 N	java:S1060"9Replace this use of System.out or System.err by a logger.(ÓíŒ
-V	java:S125W"<This block of commented-out lines of code should be removed.(õ–ôÄùÿÿÿÿ
 P
 java:S1118":Add a private constructor to hide the implicit public one.(‚µÏ‘
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(¬Ğ“³
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(Ö¬êÑ
 G
 java:S1135P"2Complete the task associated to this TODO comment.(ºØñ2
-N	java:S106!"9Replace this use of System.out or System.err by a logger.(¬Ğ“³
 N	java:S106*"9Replace this use of System.out or System.err by a logger.(‰Ş×
+V	java:S125W"<This block of commented-out lines of code should be removed.(õ–ôÄùÿÿÿÿ

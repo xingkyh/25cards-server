@@ -1,11 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdd20216-7df0-423b-a6d2-80259bdb33be" name="Default Changelist" comment="" />
+    <list default="true" id="cdd20216-7df0-423b-a6d2-80259bdb33be" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/169d4c639ba39ad700f150a963235af6d60c92c9" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/169d4c639ba39ad700f150a963235af6d60c92c9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51c41914f4f8599279828f6dcacc67cc3784b43a" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/51c41914f4f8599279828f6dcacc67cc3784b43a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85bc856fdf495a3c4881e627f327d8674d39b76b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/5/85bc856fdf495a3c4881e627f327d8674d39b76b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9bf71a484481563db443cedcd68733f88c344a4b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9bf71a484481563db443cedcd68733f88c344a4b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c231140b6125939c3fe76acc81a21a991be5088f" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c231140b6125939c3fe76acc81a21a991be5088f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/sonarlint/issuestore/1/6/169d4c639ba39ad700f150a963235af6d60c92c9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/sonarlint/issuestore/2/e/2e4326a3f3101c616274586b6ed92b794b1ef1bd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/sonarlint/issuestore/3/3/33229fce78d1a8bb5fb48340b3ab66a2fa82fbe7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/sonarlint/issuestore/5/1/51c41914f4f8599279828f6dcacc67cc3784b43a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/sonarlint/issuestore/9/3/930b2c1d08ecb8339873c37ba0b6957548b40e4c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/sonarlint/issuestore/9/b/9bf71a484481563db443cedcd68733f88c344a4b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/sonarlint/issuestore/c/2/c231140b6125939c3fe76acc81a21a991be5088f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/sonarlint/issuestore/f/9/f99ad6c3cd182650d19c307ad6ba972b8ea3fb37" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/sonarlint/issuestore/f/f/ff7c8130bd54405ec8dc06730a844e82699c6358" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.settings/org.eclipse.wst.common.component" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/25Cards.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/WebContent/WEB-INF/lib/commons-collections4-4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/WebContent/WEB-INF/lib/commons-compress-1.18.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/WebContent/WEB-INF/lib/commons-fileupload.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/WebContent/WEB-INF/lib/commons-io-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/WebContent/WEB-INF/lib/jstl.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/WebContent/WEB-INF/lib/mysql-connector-java-5.1.39-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/WebContent/WEB-INF/lib/mysql-connector-java-8.0.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/WebContent/WEB-INF/lib/sqljdbc4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/WebContent/WEB-INF/lib/standard.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/WebContent/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/WebContent/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/src/dao/UserDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/src/impl/UserDAOimpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/src/model/Poker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/src/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/src/servlet/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/src/servlet/Register.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/src/thread/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/src/thread/ServiceThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/src/util/JDBCUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/25Cards/src/util/SocketServiceLoader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/JDBCUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/JDBCUtil.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -36,6 +95,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
@@ -50,13 +122,35 @@
       <workItem from="1603533783712" duration="188000" />
       <workItem from="1603534684263" duration="1304000" />
       <workItem from="1603537690716" duration="1809000" />
+      <workItem from="1604486970530" duration="3708000" />
+      <workItem from="1604491609348" duration="206000" />
+      <workItem from="1604491829331" duration="666000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604491806771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604491806771" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604491813094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1604491813094" />
     <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1603535395517">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -22,7 +22,7 @@ public class JDBCUtil {
 	private static String driverName = "com.mysql.cj.jdbc.Driver";
 	private static String url = "jdbc:mysql://localhost:3306/25Cards?useSSL=false&serverTimezone=UTC&useUnicode=true&characterEncoding=utf-8&allowPublicKeyRetrieval=true";
 	private static String userName = "root";
-	private static String password = "Zbh.0831";
+	private static String password = "plumk";
 
 	public static void registerDriver() {
 		try {

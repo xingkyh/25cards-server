@@ -1,10 +1,0 @@
-
-T
-java:S47191"9Replace charset name argument with StandardCharsets.UTF_8(ò¦™ºÿÿÿÿÿ
-N	java:S1063"9Replace this use of System.out or System.err by a logger.(ÜËÖ°
-M
-java:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿ
-a
-java:S1192,"FDefine a constant instead of duplicating this literal "utf-8" 3 times.(¿ ¹¤üÿÿÿÿ
-Y
-java:S47191">Replace charset name argument with StandardCharsets.ISO_8859_1(ò¦™ºÿÿÿÿÿ
